@@ -1,7 +1,6 @@
 # Hi there 👋
 
-Welcome to my GitHub profile! This repository is special because it appears on my GitHub profile page.
-
+Welcome to my GitHub profile! 
 ## Here's a bit about me:
 
 🔭 I’m currently working on ...  
