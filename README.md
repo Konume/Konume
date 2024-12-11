@@ -7,7 +7,7 @@ Welcome to my GitHub profile!
 - Exploring and contributing to small projects to improve my coding skills.
 
 🌱 I’m currently learning ...  
-- JavaScript, Python, and web development tools like HTML, CSS, and React.
+- JavaScript, C#, and web development tools like HTML, CSS, and React.
 
 👯 I’m looking to collaborate on ...  
 - Open-source projects to learn from others and build my portfolio.
